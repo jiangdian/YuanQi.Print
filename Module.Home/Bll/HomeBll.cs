@@ -1,7 +1,6 @@
 ﻿using Module.BiaoQian.ViewModels;
 using Module.HeGe.ViewModels;
 using Module.Home.Enum;
-using Module.Home.ViewModels;
 using Prism.Events;
 using Prism.Ioc;
 using System;
@@ -11,8 +10,6 @@ using YuanQiTool;
 using YuanQiTool.PLC;
 using YuanQiTool.Scanner.Honeywell;
 using YuanQiUI.Event;
-using YuanQiUI.ViewModels;
-using static ImTools.ImMap;
 
 namespace Module.Home.Bll
 {

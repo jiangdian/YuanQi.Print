@@ -4,11 +4,8 @@ using Prism.Commands;
 using Prism.Events;
 using Prism.Mvvm;
 using System;
-using System.Collections.Generic;
 using System.ComponentModel;
 using System.IO;
-using System.Net.Sockets;
-using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -16,7 +13,6 @@ using YuanQiTool;
 using YuanQiTool.Print;
 using YuanQiTool.SocketClient;
 using YuanQiUI.Event;
-using YuanQiUI.ViewModels;
 
 namespace YuanQiUI.ViewModels
 {

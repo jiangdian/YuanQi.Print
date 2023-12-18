@@ -1,7 +1,6 @@
 ﻿using Newtonsoft.Json;
 using Prism.Events;
 using System;
-using System.Collections.Generic;
 using System.ComponentModel;
 using System.IO;
 using System.IO.Ports;
